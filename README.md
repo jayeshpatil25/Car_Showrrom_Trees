@@ -1,4 +1,4 @@
-Implementation of Car Management System, entirely in B-Trees.
+Implementation of Car Management System, using B-Trees.
 
 Problem Statement:
 
